@@ -1,0 +1,3 @@
+"https://example.com/video1.m3u8","Video with periods.and.dots.mp4"
+"https://example.com/video2.m3u8","Video with, commas and ""quotes"".mp4"
+"https://example.com/video3.m3u8","Normal video name.mp4"
