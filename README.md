@@ -30,9 +30,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Prepare your CSV file (`list.csv`) with the following format:
+1. Prepare your CSV file (`list.csv`) with the following format:  
+`"m3u8_url","video_name"`
 ```csv
-"m3u8_url","video_name"
 "https://example.com/video1.m3u8","Video Name 1"
 "https://example.com/video2.m3u8","Video Name 2"
 ```
